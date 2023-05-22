@@ -17,6 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/PERARASU10/Open-Jacson-Networks/assets/118348589/40c7c080-75b3-429c-ba24-bee77fe3599e)
 
 
 ## Program
@@ -61,6 +62,7 @@ else:
 print("----------------------------------------------------------------------")
  ````
 ## Output
+
 
 
 ## Result
